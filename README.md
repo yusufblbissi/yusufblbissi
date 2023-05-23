@@ -1,7 +1,7 @@
 # Hi there, I'm Yousef! 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=yusufblbissi&show_icons=true&theme=gruvbox"/>
-<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufblbissi&layout=compact"/>
+<!-- <img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufblbissi&layout=compact"/> -->
 <br/>
 <br/>
 <br/>
